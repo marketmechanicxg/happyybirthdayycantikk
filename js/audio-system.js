@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'a thousand years',
-    artist:    'Christina Perri',
+    title:     'shape of my heart',
+    artist:    'Backstreet Boys',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
